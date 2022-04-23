@@ -11,6 +11,8 @@ The example can be configured to use a TLSSocket. This works only on devices tha
 (Note: To see this example in a rendered form you can import into the Arm Mbed Online Compiler,
 please see [the documentation](https://os.mbed.com/docs/mbed-os/latest/apis/socket.html#socket-example).)
 
+Il progetto e' stato modificato per adattarlo alla scheda ESP8266 modificando il file di configurazione 
+
 ## Selecting the network interface
 
 This application is able to use any network interface it finds.
